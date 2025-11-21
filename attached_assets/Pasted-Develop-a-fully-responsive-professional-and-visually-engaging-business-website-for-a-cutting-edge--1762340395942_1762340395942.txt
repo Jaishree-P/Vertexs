@@ -1,0 +1,73 @@
+Develop a fully responsive, professional, and visually engaging business website for a cutting-edge technology solutions provider using React.js for the frontend and Node.js for the backend. The website must feature:
+
+Hero Section:
+
+Prominent headline about AI-powered innovation and technology transformation.
+
+Eye-catching visual or background illustration.
+
+Brief brand statement and key CTA buttons.
+
+Navigation:
+
+Sticky top navigation bar with sections: Home, About, Services, Solutions, Contact.
+
+Smooth-scrolling, fully responsive design optimized for all devices.
+
+About Us:
+
+Company overview highlighting expertise in AI, cloud, and digital transformation.
+
+Short leadership or expertise highlights.
+
+Services:
+
+Interactive cards or lists for:
+
+AI Solutions
+
+Machine Learning & Data Analytics
+
+Web & Mobile App Development
+
+Cloud/DevOps
+
+UI/UX & Digital Marketing
+
+AR/VR, IoT, and Chatbots
+
+Each card should offer a short description and inquiry link.
+
+Showcase / Case Studies:
+
+Section for customer testimonials or use case highlights (placeholder content).
+
+Contact Form:
+
+Professional inquiry/contact form backed by a Node.js API for submissions.
+
+Company info, quick links, and social icons in the footer.
+
+Design Requirements:
+
+Modern, clean layout with brand-appropriate colors—blue/green gradients.
+
+Soft micro-animations for buttons and content transitions.
+
+Modular and reusable React components structure.
+
+Technical Stack:
+
+React.js (frontend, using modern hooks and component structure).
+
+Node.js (backend, handle contact form/API endpoints).
+
+Responsive CSS via Tailwind or Material UI.
+
+Example data for company/services—configurable in code.
+
+Content Tone:
+
+Authoritative and future-focused, establishing trust with enterprise clients.
+
+This brief should be used to guide AI site generators or custom development for building a feature-rich, modern business website similar in spirit to haasa.ai, but implemented with the React and Node.js stack
