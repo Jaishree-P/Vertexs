@@ -10,10 +10,9 @@ const footerLinks = {
     { label: "Contact", href: "#contact" },
   ],
   services: [
-    { label: "IT Solutions", href: "#services" },
     { label: "Training", href: "#services" },
     { label: "Talent Acquisition", href: "#services" },
-    { label: "Cloud/DevOps", href: "#services" },
+    
   ],
 };
 
