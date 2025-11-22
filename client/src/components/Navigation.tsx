@@ -56,7 +56,7 @@ export function Navigation() {
             className="text-2xl font-bold bg-gradient-to-r from-primary to-chart-2 bg-clip-text text-transparent hover-elevate active-elevate-2 transition-transform"
             data-testid="link-logo"
           >
-            Voltexs IT Consulting
+            Vortexs IT Consulting
           </a>
 
           <div className="hidden md:flex items-center gap-1">

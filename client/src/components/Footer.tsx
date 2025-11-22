@@ -39,7 +39,7 @@ export function Footer() {
         <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-12 mb-12">
           <div className="space-y-4">
             <h3 className="text-2xl font-bold bg-gradient-to-r from-primary to-chart-2 bg-clip-text text-transparent">
-              Voltexs
+              Vortexs
             </h3>
             <p className="text-muted-foreground leading-relaxed">
               An IT Solutions and Consulting firm provides expertise, guidance, and technology-driven strategies to help businesses optimize operations, enhance security, and achieve digital transformation goals in dynamic environments with innovative and reliable solutions.
@@ -142,7 +142,7 @@ export function Footer() {
         <div className="pt-8 border-t border-border">
           <div className="flex flex-col md:flex-row justify-between items-center gap-4">
             <p className="text-sm text-muted-foreground">
-              © {new Date().getFullYear()} Voltexs Solutions. All rights reserved.
+              © {new Date().getFullYear()} Vortexs Solutions. All rights reserved.
             </p>
             <div className="flex gap-6">
               <a
